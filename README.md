@@ -1,4 +1,4 @@
-<h1>Oi, eu sou o Vitor 👋</h1>
+<h1>Oi, eu sou o Vitor 👋🏾</h1>
 
 - 👨🏾‍💻🏙  Servidor Público
 - 👨🏾‍🎓📚 Estudante de Análise e Desenvolvimente de Sistemas pela **UNIFAA**
@@ -6,7 +6,7 @@
 - ♻ 💻 Em transição de carreira para a área de tecnologia
 
 
-- Estou aprendendo, ou tentando aprender, as seguintes tecnologias:
+<h3>Estou aprendendo, ou tentando aprender, as seguintes tecnologias:</h3>
 <div display="inline">
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
