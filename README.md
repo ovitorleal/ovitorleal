@@ -1,9 +1,6 @@
 <h1 align="center">Oi, eu sou o Vitor 👋🏾</h1>
 
-- 👨🏾‍💻🏙  Servidor Público
 - 👨🏾‍🎓📚 Estudante de Análise e Desenvolvimente de Sistemas pela **UNIFAA**
-- 🎮🏈 Apaixonado por games e Futebol Americano
-- ♻ 💻 Em transição de carreira para a área de tecnologia
 ##
 
 <h3>Estou aprendendo, ou tentando aprender, as seguintes tecnologias:</h3>
